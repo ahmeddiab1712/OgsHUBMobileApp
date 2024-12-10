@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "949088424726",
+    "project_id": "ogshub-af6b5",
+    "storage_bucket": "ogshub-af6b5.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:949088424726:android:44dc92ffbfc65c851cb637",
+        "android_client_info": {
+          "package_name": "com.mycompany.ogscenter"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBilZK4IMVeXax3n1YEn8MDNeeG_5eM2B0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
